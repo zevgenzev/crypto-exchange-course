@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crypto Currency Exchange</string>
+    <string name="symbols_template">%s / %s</string>
+    <string name="price_label">Price: </string>
+    <string name="last_deal_label">Last deal: </string>
+    <string name="update_label">Update: </string>
+    <string name="max_price_label">Max price of the day: </string>
+    <string name="min_price_label">Min price of the day: </string>
+    <string name="last_update_template">Last update\'s time: %s</string>
+    <string name="last_market_label">Last market: </string>
+</resources>
